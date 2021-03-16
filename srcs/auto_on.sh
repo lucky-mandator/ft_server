@@ -4,4 +4,4 @@ sed -i 's/autoindex off/autoindex on/' saichaitanya
 cd
 cd ..
 nginx -s  reload
-echo "\nautoindex is off\n"
+echo "autoindex is on"
